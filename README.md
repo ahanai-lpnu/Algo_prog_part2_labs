@@ -1,4 +1,5 @@
 # Lab 1
+## Level 3
 ### Option 3
 Write a function that takes an unordered array of integers and returns the length
 of the longest peak subsequence. To form a peak subsequence,
