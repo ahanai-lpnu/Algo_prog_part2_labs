@@ -17,15 +17,15 @@ to another. The maximum diameter does not necessarily have to include the root
 node
 Suppose you are given a binary tree of the following form:
 ```
-1
-/ \
-3 2
-/ \
-7 4
-/ \
-8 5
-/ \
-9 6
+        1
+       / \
+      3   2
+     / \
+    7   4
+   /     \
+  8       5
+ /          \
+9            6
 ```
 
 For this tree, the maximum diameter is 6: `9 -> 8 -> 7 -> 3 -> 4 -> 5
@@ -51,15 +51,15 @@ self.right = right
 вузол
 Нехай у вас задане бінарне дерево такого вигляду:
 ```
-1
-/ \
-3 2
-/ \
-7 4
-/ \
-8 5
-/ \
-9 6
+        1
+       / \
+      3   2
+     / \
+    7   4
+   /     \
+  8       5
+ /          \
+9            6
 ```
 
 Для даного дерева максимальний діаметр становить 6: `9 -> 8 -> 7 -> 3 -> 4 -> 5
